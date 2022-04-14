@@ -130,7 +130,7 @@
                         echo "<p> Oh yeah, my life is incomplete</p>";
                         echo "<p> Oh yeah, yeah, yeah</p>";
                         echo "<br/>";
-                        
+
                         ?>
 
                     </div>
@@ -139,7 +139,7 @@
         </section>
 
         <footer class="py-3 bg-danger">
-            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. add your fullname here</p></div>
+            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Christine Anne Lopez</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
